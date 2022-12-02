@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatDemo", "ChatDemo.csproj", "{272A0943-0300-4196-9273-DEB551A5D66E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JR.Tool", "..\JR.Tool\JR.Tool.csproj", "{64E4860F-9A3E-4184-B423-930A54F6C36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272A0943-0300-4196-9273-DEB551A5D66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272A0943-0300-4196-9273-DEB551A5D66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272A0943-0300-4196-9273-DEB551A5D66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272A0943-0300-4196-9273-DEB551A5D66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E4860F-9A3E-4184-B423-930A54F6C36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E4860F-9A3E-4184-B423-930A54F6C36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E4860F-9A3E-4184-B423-930A54F6C36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E4860F-9A3E-4184-B423-930A54F6C36D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96250196-6105-45C1-A1DD-E245B84E4B6B}
+	EndGlobalSection
+EndGlobal
